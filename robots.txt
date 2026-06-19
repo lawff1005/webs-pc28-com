@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lawff1005.github.io/webs-pc28-com/sitemap.xml
